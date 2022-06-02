@@ -20,7 +20,7 @@
     },
     "license": "AGPL-3.0",
     "dependencies": {
-        "protobufjs": "^6.8.8"
+        "protobufjs": "^6.11.3"
     },
     "devDependencies": {
         "@commitlint/cli": "^7.5.2",
